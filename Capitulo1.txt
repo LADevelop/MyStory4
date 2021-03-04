@@ -1,1 +1,3 @@
-Capitulo 1 creado en master branch
+Capitulo 1 creado en master branch  //Este es el unico renglon que aparecia en la main al hacer el merge primero
+Edicion hecha en el archivo experimental y commited. //este renglon aparecia en el experimental despues de el primer merge
+Y ahora con un segundo merge pasando del experimental al master observaremos todo en el main 
